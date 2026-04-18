@@ -1,0 +1,10 @@
+{
+  "theme": "halit",
+  "mode": "minimal",
+  "purity": 0.99,
+  "features": {
+    "simplicity": true,
+    "clarity": true,
+    "excess": false
+  }
+}
